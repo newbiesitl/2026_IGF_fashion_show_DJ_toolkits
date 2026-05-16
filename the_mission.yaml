@@ -1,11 +1,11 @@
 source_file: audios/the_mission.mp3
 output_file: outputs/the_mission_remixed.mp3
 session_configs:
-- start: 10
-  end : 15
+- start: 30
+  end : 35
   fade_in : 200
   fade_out : 500
-- start: 10
-  end : 15
+- start: 30
+  end : 35
   fade_in : 200
   fade_out : 500
