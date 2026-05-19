@@ -1,0 +1,33 @@
+source_file: audios/a_thousand_years.mp3
+output_file: outputs/a_thousand_years_remixed.mp3
+# Overlap fade-out of one segment with fade-in of the next (milliseconds).
+fade_overlap_ms: 200
+session_configs:
+- start: 0
+  end: 298
+  fade_in: 100
+  fade_out: 1000
+- start: 0.5
+  end: 298
+  fade_in: 1000
+  fade_out: 2000
+- start: 0.5
+  end: 298
+  fade_in: 1000
+  fade_out: 2000
+- start: 0.5
+  end: 298
+  fade_in: 1000
+  fade_out: 2000
+- start: 0.5
+  end: 298
+  fade_in: 1000
+  fade_out: 2000
+- start: 0.5
+  end: 298
+  fade_in: 1000
+  fade_out: 2000
+- start: 0.5
+  end: 298
+  fade_in: 1000
+  fade_out: 2000

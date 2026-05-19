@@ -1,0 +1,53 @@
+source_file: audios/lady_gaga_ran_away.mp3
+output_file: outputs/lady_gaga_ran_away_remixed.mp3
+# Overlap fade-out of one segment with fade-in of the next (milliseconds).
+fade_overlap_ms: 50
+session_configs:
+- start: 0
+  end:  175.30
+  fade_in: 0
+  fade_out: 0
+- start: 11.1
+  end:  175.5
+  fade_in: 300
+  fade_out: 0
+- start: 11.1
+  end:  175.5
+  fade_in: 300
+  fade_out: 0
+- start: 11.1
+  end:  175.5
+  fade_in: 300
+  fade_out: 0
+- start: 11.1
+  end:  175.5
+  fade_in: 300
+  fade_out: 0
+- start: 11.1
+  end:  175.5
+  fade_in: 300
+  fade_out: 0
+- start: 11.1
+  end:  175.5
+  fade_in: 300
+  fade_out: 0
+- start: 11.1
+  end:  175.5
+  fade_in: 300
+  fade_out: 0
+- start: 11.1
+  end:  175.5
+  fade_in: 300
+  fade_out: 0
+- start: 11.1
+  end:  175.5
+  fade_in: 300
+  fade_out: 0
+- start: 11.1
+  end:  175.5
+  fade_in: 300
+  fade_out: 0
+- start: 11.1
+  end:  175.5
+  fade_in: 300
+  fade_out: 0

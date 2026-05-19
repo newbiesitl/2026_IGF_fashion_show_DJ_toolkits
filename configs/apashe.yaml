@@ -1,0 +1,53 @@
+source_file: audios/apashe.mp3
+output_file: outputs/apashe_remixed.mp3
+# Overlap fade-out of one segment with fade-in of the next (milliseconds).
+fade_overlap_ms: 10
+session_configs:
+- start: 0
+  end:  160
+  fade_in: 0
+  fade_out: 200
+- start: 5
+  end: 160
+  fade_in: 200
+  fade_out: 300
+- start: 5
+  end: 160
+  fade_in: 200
+  fade_out: 300
+- start: 5
+  end: 160
+  fade_in: 200
+  fade_out: 300
+- start: 5
+  end: 160
+  fade_in: 200
+  fade_out: 300
+- start: 5
+  end: 160
+  fade_in: 200
+  fade_out: 300
+- start: 5
+  end: 160
+  fade_in: 200
+  fade_out: 300
+- start: 5
+  end: 160
+  fade_in: 200
+  fade_out: 300
+- start: 5
+  end: 160
+  fade_in: 200
+  fade_out: 300
+- start: 5
+  end: 160
+  fade_in: 200
+  fade_out: 300
+- start: 5
+  end: 160
+  fade_in: 200
+  fade_out: 300
+- start: 5
+  end: 160
+  fade_in: 200
+  fade_out: 300

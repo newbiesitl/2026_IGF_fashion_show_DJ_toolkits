@@ -32,6 +32,8 @@ pip install -r requirements.txt
 
 python3 scripts/audio_re-mixer.py configs/the_mission.yaml
 python3 scripts/audio_re-mixer.py configs/a_thousand_years.yaml
+python3 scripts/audio_re-mixer.py configs/apashe.yaml
+python3 scripts/audio_re-mixer.py configs/lady_gaga_ran_away.yaml
 ```
 
 Shorthand (config name only, resolved from `configs/`):
