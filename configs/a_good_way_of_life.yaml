@@ -1,0 +1,41 @@
+source_file: audios/a_good_way_of_life.mp3
+output_file: outputs/a_good_way_of_life_remixed.mp3
+# Overlap fade-out of one segment with fade-in of the next (milliseconds).
+fade_overlap_ms: 200
+session_configs:
+- start: 0
+  end: 206
+  fade_in: 100
+  fade_out: 1000
+- start: 0
+  end: 206
+  fade_in: 100
+  fade_out: 1000
+- start: 0
+  end: 206
+  fade_in: 100
+  fade_out: 1000
+- start: 0
+  end: 206
+  fade_in: 100
+  fade_out: 1000
+- start: 0
+  end: 206
+  fade_in: 100
+  fade_out: 1000
+- start: 0
+  end: 206
+  fade_in: 100
+  fade_out: 1000
+- start: 0
+  end: 206
+  fade_in: 100
+  fade_out: 1000
+- start: 0
+  end: 206
+  fade_in: 100
+  fade_out: 1000
+- start: 0
+  end: 206
+  fade_in: 100
+  fade_out: 1000

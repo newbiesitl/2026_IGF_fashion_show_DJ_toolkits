@@ -34,6 +34,11 @@ python3 scripts/audio_re-mixer.py configs/the_mission.yaml
 python3 scripts/audio_re-mixer.py configs/a_thousand_years.yaml
 python3 scripts/audio_re-mixer.py configs/apashe.yaml
 python3 scripts/audio_re-mixer.py configs/lady_gaga_ran_away.yaml
+python3 scripts/audio_re-mixer.py configs/jesse_dance_music.yaml
+python3 scripts/audio_re-mixer.py configs/a_good_way_of_life.yaml
+python3 scripts/audio_re-mixer.py configs/mines_music.yaml
+python3 scripts/audio_re-mixer.py configs/finale_without_you.yaml
+python3 scripts/audio_re-mixer.py configs/morni.yaml
 ```
 
 Shorthand (config name only, resolved from `configs/`):
